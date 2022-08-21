@@ -2,7 +2,7 @@
 
 By Sheetal Patil
 
-## [DEPLOYED WEBSITE LINK]()
+## [DEPLOYED WEBSITE LINK](https://lawlandingpage.netlify.app/)
 
 ![Completed Website](./FullScreenshot.JPG)
 
